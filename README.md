@@ -6,7 +6,7 @@ Github Username: 'Jason-Franklin'
 **Websites**
 
 [![JasonFranklin.com](https://img.shields.io/static/v1?label=🌐&message=JasonFranklin.com&color=blue)](https://www.jasonfranklin.com/)
-[![Wallet.news](https://img.shields.io/static/v1?label=🌐&message=Wallet.news&color=blue)](https://www.Wallet.news/)
+[![EXL.com](https://img.shields.io/static/v1?label=🌐&message=EXL.com&color=blue)](https://www.EXL.com/)
 
 **Languages I have used**
 
