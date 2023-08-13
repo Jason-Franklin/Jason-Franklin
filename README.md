@@ -37,6 +37,10 @@ Github Username: 'Jason-Franklin'
 
 **Certificates and Certifications**
 
+*Artificial Intelligence*
+
+[![Google](https://img.shields.io/static/v1?label=Google&message=Generative-AI-Fundamentals&color=blue)](https://www.cloudskillsboost.google/public_profiles/8b4e8327-f825-458d-a0ff-ae494c89f34b/badges/4125424)
+
 *Agile & Scrum*
 
 For certification verification use email: thejasonfranklin@gmail.com 
